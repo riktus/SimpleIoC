@@ -14,7 +14,7 @@ namespace SimpleIoC
         {
             Configurator.ConfigureContainer();
 
-            worker = IoContainer.GetInstance<IWorker>();
+            worker = Core.Resolve<IWorker>();
 
             worker.Work();
         }

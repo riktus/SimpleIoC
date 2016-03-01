@@ -39,8 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IoContainer.cs" />
+    <Compile Include="Bind.cs" />
+    <Compile Include="GetInstance.cs" />
+    <Compile Include="Core.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resolve.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

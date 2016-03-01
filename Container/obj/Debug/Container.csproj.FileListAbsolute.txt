@@ -3,3 +3,7 @@ c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\Container\bin\D
 c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\Container\bin\Debug\Container.pdb
 c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\Container\obj\Debug\Container.dll
 c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\Container\obj\Debug\Container.pdb
+D:\AVolkov\GitHub\SimpleIoC\Container\bin\Debug\Container.dll
+D:\AVolkov\GitHub\SimpleIoC\Container\bin\Debug\Container.pdb
+D:\AVolkov\GitHub\SimpleIoC\Container\obj\Debug\Container.dll
+D:\AVolkov\GitHub\SimpleIoC\Container\obj\Debug\Container.pdb

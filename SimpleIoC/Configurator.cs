@@ -11,7 +11,7 @@ namespace SimpleIoC
     {
         public static void ConfigureContainer()
         {
-            IoContainer.Bind<IWorker, Worker>();
+            Core.Bind<IWorker, Worker>();
         }
     }
 }
