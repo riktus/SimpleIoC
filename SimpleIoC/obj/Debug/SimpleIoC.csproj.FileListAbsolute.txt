@@ -1,0 +1,7 @@
+c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\SimpleIoC\bin\Debug\SimpleIoC.exe
+c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\SimpleIoC\bin\Debug\SimpleIoC.pdb
+c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\SimpleIoC\bin\Debug\Container.dll
+c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\SimpleIoC\bin\Debug\Container.pdb
+c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\SimpleIoC\obj\Debug\SimpleIoC.csprojResolveAssemblyReference.cache
+c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\SimpleIoC\obj\Debug\SimpleIoC.exe
+c:\users\avolkov\documents\visual studio 2013\Projects\SimpleIoC\SimpleIoC\obj\Debug\SimpleIoC.pdb
